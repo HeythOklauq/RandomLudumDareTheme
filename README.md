@@ -1,2 +1,2 @@
 # RandomLudumDareTheme
-Online access : https://nahyn.github.io/RandomLudumDareTheme/
+Online access : https://heythoklauq.github.io/RandomLudumDareTheme/
